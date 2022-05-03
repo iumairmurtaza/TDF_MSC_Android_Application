@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1048934077392",
+    "project_id": "tdf-magnifiscience-centre",
+    "storage_bucket": "tdf-magnifiscience-centre.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048934077392:android:b9eae7a717a3d6ded35fd5",
+        "android_client_info": {
+          "package_name": "com.tdf.msc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048934077392-4altrmv58dpouofohos0o75kftajlkad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBspvV_fb-F-zSyhjiheU2VjbmE0we4AAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048934077392-4altrmv58dpouofohos0o75kftajlkad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
